@@ -1,0 +1,14 @@
+OpenGL is running
+Main loop has started
+first animation from: textures/dragon.png
+1: textures/dragon.png
+2: textures/dragon.png
+
+1: textures/dragon.png
+2: textures/dragon.png
+
+1: textures/reactor_hot.png
+2: textures/dragon.png
+
+animacia nedeklarovana
+nova animacia z: textures/reactor_hot.png

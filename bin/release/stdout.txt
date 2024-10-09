@@ -1,0 +1,166 @@
+OpenGL is running
+Main loop has started
+deleting PA
+PA name = Wizard
+deleted PA
+deleting PA
+PA name = StaffRed
+deleted PA
+equipping
+healthBar removed!
+deleting PA
+PA name = Dragon
+deleted PA
+deleting PA
+PA name = Dragon
+deleted PA
+deleting PA
+PA name = Wizard
+deleted PA
+deleting PA
+PA name = StaffBlue
+deleted PA
+equipping
+healthBar removed!
+healthBar removed!
+deleting PA
+PA name = Wizard
+deleted PA
+healthBar removed!
+deleting PA
+PA name = Dragon
+deleted PA
+healthBar removed!
+deleting PA
+PA name = Dragon
+deleted PA
+deleting PA
+PA name = Helmet
+deleted PA
+deleting PA
+PA name = Wizard
+deleted PA
+equipping
+healthBar removed!
+deleting PA
+PA name = StaffBlue
+deleted PA
+healthBar removed!
+deleting PA
+PA name = Dragon
+deleted PA
+deleting PA
+PA name = Player
+deleted PA
+starting animation
+healing
+
+healed
+
+healing
+
+healed
+
+starting animation
+starting animation
+healthBar removed!
+deleting PA
+PA name = Medipack
+deleted PA
+deleting PA
+PA name = Player
+deleted PA
+starting animation
+healing
+
+healed
+
+healing
+
+healed
+
+healthBar removed!
+deleting PA
+PA name = Medipack
+deleted PA
+healthBar removed!
+deleting PA
+PA name = Dragon
+deleted PA
+deleting PA
+PA name = Player
+deleted PA
+starting animation
+healing
+
+healed
+
+healing
+
+healed
+
+starting animation
+starting animation
+starting animation
+healthBar removed!
+deleting PA
+PA name = Medipack
+deleted PA
+deleting PA
+PA name = StaffRed
+deleted PA
+deleting PA
+PA name = StaffRed
+deleted PA
+equipping
+healthBar removed!
+deleting PA
+PA name = Wizard
+deleted PA
+deleting PA
+PA name = Wizard
+deleted PA
+equipping
+deleting PA
+PA name = StaffBlue
+deleted PA
+deleting PA
+PA name = Wizard
+deleted PA
+equipping
+adding dragon1
+adding dragon2
+actor not null
+adding dragon1
+adding dragon2
+actor not null
+adding dragon1
+adding dragon2
+actor not null
+adding dragon1
+adding dragon2
+healthBar removed!
+healthBar removed!
+deleting PA
+PA name = StaffRed
+deleted PA
+equipping
+equipping
+deleting PA
+PA name = Wizard
+deleted PA
+deleting PA
+PA name = Block2
+deleted PA
+healthBar removed!
+healthBar removed!
+healthBar removed!
+healthBar removed!
+healthBar removed!
+healthBar removed!
+healthBar removed!
+healthBar removed!
+healthBar removed!
+healthBar removed!
+healthBar removed!
+healthBar removed!

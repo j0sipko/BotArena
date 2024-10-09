@@ -1,0 +1,127 @@
+#ifndef EVENTS_H
+#define EVENTS_H
+
+
+class Events
+{
+    public:
+        Events();
+        virtual ~Events();
+        bool isKeyPressed_kb_Q;
+        bool isKeyPressedOnce_kb_Q;
+        bool isKeyPressed_kb_W;
+        bool isKeyPressedOnce_kb_W;
+        bool isKeyPressed_kb_E;
+        bool isKeyPressedOnce_kb_E;
+        bool isKeyPressed_kb_R;
+        bool isKeyPressedOnce_kb_R;
+        bool isKeyPressed_kb_T;
+        bool isKeyPressedOnce_kb_T;
+        bool isKeyPressed_kb_Z;
+        bool isKeyPressedOnce_kb_Z;
+        bool isKeyPressed_kb_U;
+        bool isKeyPressedOnce_kb_U;
+        bool isKeyPressed_kb_I;
+        bool isKeyPressedOnce_kb_I;
+        bool isKeyPressed_kb_O;
+        bool isKeyPressedOnce_kb_O;
+        bool isKeyPressed_kb_P;
+        bool isKeyPressedOnce_kb_P;
+        bool isKeyPressed_kb_A;
+        bool isKeyPressedOnce_kb_A;
+        bool isKeyPressed_kb_S;
+        bool isKeyPressedOnce_kb_S;
+        bool isKeyPressed_kb_D;
+        bool isKeyPressedOnce_kb_D;
+        bool isKeyPressed_kb_F;
+        bool isKeyPressedOnce_kb_F;
+        bool isKeyPressed_kb_G;
+        bool isKeyPressedOnce_kb_G;
+        bool isKeyPressed_kb_H;
+        bool isKeyPressedOnce_kb_H;
+        bool isKeyPressed_kb_J;
+        bool isKeyPressedOnce_kb_J;
+        bool isKeyPressed_kb_K;
+        bool isKeyPressedOnce_kb_K;
+        bool isKeyPressed_kb_L;
+        bool isKeyPressedOnce_kb_L;
+        bool isKeyPressed_kb_Y;
+        bool isKeyPressedOnce_kb_Y;
+        bool isKeyPressed_kb_X;
+        bool isKeyPressedOnce_kb_X;
+        bool isKeyPressed_kb_C;
+        bool isKeyPressedOnce_kb_C;
+        bool isKeyPressed_kb_V;
+        bool isKeyPressedOnce_kb_V;
+        bool isKeyPressed_kb_B;
+        bool isKeyPressedOnce_kb_B;
+        bool isKeyPressed_kb_N;
+        bool isKeyPressedOnce_kb_N;
+        bool isKeyPressed_kb_M;
+        bool isKeyPressedOnce_kb_M;
+        bool isKeyPressed_kb_Tab;
+        bool isKeyPressedOnce_kb_Tab;
+        bool isKeyPressed_kb_Lshift;
+        bool isKeyPressedOnce_kb_Lshift;
+        bool isKeyPressed_kb_Lctrl;
+        bool isKeyPressedOnce_kb_Lctrl;
+        bool isKeyPressed_kb_Lalt;
+        bool isKeyPressedOnce_kb_Lalt;
+        bool isKeyPressed_kb_Del;
+        bool isKeyPressedOnce_kb_Del;
+        bool isKeyPressed_kb_Esc;
+        bool isKeyPressedOnce_kb_Esc;
+        bool isKeyPressed_kb_Rshift;
+        bool isKeyPressedOnce_kb_Rshift;
+        bool isKeyPressed_kb_Rctrl;
+        bool isKeyPressedOnce_kb_Rctrl;
+        bool isKeyPressed_kb_Ralt;
+        bool isKeyPressedOnce_kb_Ralt;
+        bool isKeyPressed_kb_Enter;
+        bool isKeyPressedOnce_kb_Enter;
+        bool isKeyPressed_kb_Space;
+        bool isKeyPressedOnce_kb_Space;
+        bool isKeyPressed_kb_0;
+        bool isKeyPressedOnce_kb_0;
+        bool isKeyPressed_kb_1;
+        bool isKeyPressedOnce_kb_1;
+        bool isKeyPressed_kb_2;
+        bool isKeyPressedOnce_kb_2;
+        bool isKeyPressed_kb_3;
+        bool isKeyPressedOnce_kb_3;
+        bool isKeyPressed_kb_4;
+        bool isKeyPressedOnce_kb_4;
+        bool isKeyPressed_kb_5;
+        bool isKeyPressedOnce_kb_5;
+        bool isKeyPressed_kb_6;
+        bool isKeyPressedOnce_kb_6;
+        bool isKeyPressed_kb_7;
+        bool isKeyPressedOnce_kb_7;
+        bool isKeyPressed_kb_8;
+        bool isKeyPressedOnce_kb_8;
+        bool isKeyPressed_kb_9;
+        bool isKeyPressedOnce_kb_9;
+        bool isKeyPressed_kb_F1;
+        bool isKeyPressedOnce_kb_F1;
+        bool isKeyPressed_kb_F2;
+        bool isKeyPressedOnce_kb_F2;
+        bool isKeyPressed_kb_F3;
+        bool isKeyPressedOnce_kb_F3;
+        bool isMouseButtonPressed_Left;
+        bool isMouseButtonPressedOnce_Left;
+        bool isMouseButtonPressed_Middle;
+        bool isMouseButtonPressedOnce_Middle;
+        bool isMouseButtonPressed_Right;
+        bool isMouseButtonPressedOnce_Right;
+        bool isMouseWheel_Up;
+        bool isMouseWheel_Down;
+        int mouseX;
+        int mouseY;
+        int worldMouseX;
+        int worldMouseY;
+
+    protected:
+    private:
+};
+
+#endif // EVENTS_H
